@@ -1,0 +1,16 @@
+{
+  "name": "module2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "START": "nodemon server.js"
+  },
+  "author": "Network",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0",
+    "nodemon": "^2.0.9"
+  }
+}
